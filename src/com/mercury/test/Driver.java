@@ -8,6 +8,9 @@ import org.sikuli.script.FindFailed;
 public class Driver {
 
 	public static void main(String[] args) throws Exception {
+		
+		//i am having github installed
+		
 		// TODO Auto-generated method stub
        MR mr1=new MR();
       // mr1.browserMercuryAppLaunch();
